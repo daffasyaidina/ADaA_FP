@@ -119,7 +119,7 @@ def main(): # Main Loop
             else: #No solution
                 if searching:
                     Tk().wm_withdraw()
-                    messagebox.showinfo('No Solution')
+                    messagebox.showinfo('No Solution','Solution Not Found')
                     searching = False
 
         # Draw Grid
