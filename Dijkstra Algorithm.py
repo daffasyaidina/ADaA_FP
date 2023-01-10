@@ -111,7 +111,7 @@ def main(): # Main Loop
             else: # No Solution
                 if searching:
                     Tk().wm_withdraw() 
-                    messagebox.showinfo("Solution Not Found", "Sorry i've failed you master i coulnd't find the solution")
+                    messagebox.showinfo("Solution Not Found", "Solution Not Found")
                     searching = False
 
         window.fill((28, 28, 30)) # Draw Grid
