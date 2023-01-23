@@ -1,3 +1,2 @@
 # ADaA_FP
-In this we've decided to compare Two algorithms Dijkstra algorithm and Bellman-Ford algorithm
-
+In this study, we have undertaken the task of comparing two widely recognized algorithms, the Dijkstra algorithm and the Bellman-Ford algorithm, for determining the most efficient route between a starting point, or source node, and a final destination. These algorithms are known for their efficiency and accuracy in finding the shortest path in a graph. We aimed to evaluate and compare these algorithms based on various measurements such as memory usage, and time taken to determine which algorithm is the fastest, most efficient for finding the shortest path. This information can help in determining the best algorithm for a given situation and optimize the routing process for users.
